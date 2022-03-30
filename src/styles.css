@@ -3,4 +3,14 @@
   background-color: blue;
   font-size: large;
 }
+
+.notPalindrome {
+  color: white;
+  background-color: purple;
+  font-size: large;
+}
 /*TODO: Implementa el estilo notPalindrome */
+
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
